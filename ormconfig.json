@@ -3,9 +3,9 @@
   "host": "localhost",
   "port": "5432",
   "username": "postgres",
-  "password": "aq1sw2de3",
+  "password": "",
   "database": "openscp",
-  "synchronize": "true",
-  "logging": "true",
+  "synchronize": true,
+  "logging": true,
   "entities": ["./src/**/*.entity.ts", "./dist/**/*.entity.js"]
 }
